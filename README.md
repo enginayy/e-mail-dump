@@ -16,13 +16,13 @@ Requirements
 
 Install the necessary dependencies:
 
-          pip install aiohttp beautifulsoup4 lxml
+    pip install aiohttp beautifulsoup4 lxml
 
 Usage
 
 Run the following command to start scraping emails from a specified website:
 
-          python3 e-mail-dump.py -u https://targetsite.com
+    python3 e-mail-dump.py -u https://targetsite.com
 
 How It Works
 
